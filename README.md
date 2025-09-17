@@ -47,3 +47,7 @@ SQL Queries: MySQL Workbench
 
 Version Control: Git & GitHub
 
+
+Author
+
+Created by [Prateek Kudari] – SQL & Data Analytics Enthusiast.
